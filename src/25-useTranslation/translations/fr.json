@@ -1,0 +1,7 @@
+{
+    "hi": "Bonjour",
+    "bye": "Aurevoir",
+    "nested": {
+        "value": "Valeur"
+    }
+}
